@@ -1,0 +1,6 @@
+{
+  "name": "Online Scam Reporting System",
+  "description": "Secure, comprehensive web-based platform for citizens to report online fraud, submit evidence, track complaint status, and enable administrative case management and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
